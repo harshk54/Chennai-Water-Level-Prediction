@@ -10,8 +10,8 @@ Apart from the reservoirs, the other sources of fresh water water are desalinati
 
 
 ## Objective
-The idea is to see if we can use this dataset to
-1.	Visualize the water need / usage of the city
+Our objective is to address the below questions:
+1.	Visualization of the water need / usage of the city.
 2.	Identify whether the water sources availability will be able to meet the needs till the subsequent monsoon?
 3.	How bad is the current water crisis compared to previous years?
 
